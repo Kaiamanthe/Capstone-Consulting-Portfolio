@@ -1,0 +1,12 @@
+ProductID,ProductName,Category,UnitPrice,Cost,Supplier
+2001,Coffee Beans 1lb,Beverages,12.99,7.5,Pacific Roasters
+2002,Tea Sampler Pack,Beverages,18.99,10.0,Leaf & Co
+2003,Espresso Machine,Equipment,N/A,180.0,BrewTech
+2004,French Press,Equipment,39.99,20.0,CafeGear
+2005,Mug Set,Merchandise,24.99,10.0,
+2006,Cold Brew Kit,Equipment,59.99,35.0,CoolBrew
+2007,Green Tea 100g,Beverages,9.99,4.0,Leaf & Co
+2008,Herbal Tea Box,Beverages,14.99,7.0,Leaf & Co
+2009,Coffee Grinder,Equipment,79.99,50.0,BrewTech
+2010,Tumbler,Merchandise,19.99,8.0,KitchenWorks
+2002,Tea Sampler Pack,Beverages,18.99,10.0,Leaf & Co
